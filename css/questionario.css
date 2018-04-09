@@ -1,0 +1,62 @@
+.questionario {
+  position:absolute;
+  top: 1850px;
+  right: 520px;
+}
+
+#menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #CDC9C9;
+  }
+
+#menu ul li {
+    float: left;
+}
+
+#menu ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+    background-color: red;
+}
+
+.TextoCentral {
+  position:absolute;
+  top: 1850px;
+  right: 520px;
+}
+
+.h1um {
+  position:absolute;
+  right: 560px;
+  font-family: Jua;
+}
+
+.p1 {
+  position:absolute;
+  left: 20px;
+  top: 130px;
+  font-family: Jua;
+}
+
+.h1dois {
+  position:absolute;
+  top: 600px;
+  left: 580px;
+  font-family: Jua;
+}
+
+.p2 {
+  position:absolute;
+  left: 20px;
+  top: 680px;
+  font-family: Jua;
+}

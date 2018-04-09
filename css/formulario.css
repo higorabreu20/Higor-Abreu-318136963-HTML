@@ -1,0 +1,41 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #CDC9C9;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+input[type=text] {
+    float: right;
+    width: 70%;
+    height: 30px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #0D0D0D;
+    border-radius: 4px;
+}
+
+label {
+    font-size: 35px;
+}
+
+button {
+    width: 70px;
+    height: 30px;
+    color: white;
+    background-color: #D3D3D3;
+}
